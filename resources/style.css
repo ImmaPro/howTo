@@ -1,0 +1,23 @@
+*{
+  background-color:#c8b7a6;
+  text-align:left;
+}
+
+h1{
+  text-align:center;
+  color:#7d94b5
+}
+h2{
+  color:#black;
+}
+a{
+  color:black;
+}
+
+nav {
+  text-align:center;
+  font-weight:bold;
+  background-color:#c8b7a6;
+  text-decoration:none;
+  color:#7d94b5;
+}
